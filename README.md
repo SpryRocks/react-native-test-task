@@ -24,3 +24,6 @@ Criteria for admission:
 4 - the result should be presented as a merge request from the master branch of your repository to the master branch of ours.
 
 The basis is the project located in our repository, the code must be written in TypeScript.
+
+Design of the App.
+https://www.figma.com/file/cwrsvX5DyRvuxMPMpUQk4W/Testing-App-SPRY-ROCKS?node-id=0%3A1

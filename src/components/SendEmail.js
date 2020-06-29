@@ -1,8 +1,7 @@
 import {Linking} from 'react-native';
 
 export async function sendEmail(data) {
-  // const to = 'hr@spryrocks.com';
-  const to = 'mask238@gmail.com';
+  const to = 'hr@spryrocks.com';
   const subject = `${data.fullName}`;
   let userData = '';
 
